@@ -3,14 +3,14 @@ Robotics Assignments
 ```
 └───data
 │    ├───input_data
-│        └───01
-│		 	  └───000000.bin
-│		 	  ├───000001.bin
-│		 	  ├───000002.bin
-│		 	  ├───...
-│		 	  ├───0000077.bin	
+│       └───01
+│		 	    └───000000.bin
+│		 	    ├───000001.bin
+│		 	    ├───000002.bin
+│		 	    ├───...
+│		 	    ├───0000077.bin	
 |    
-│		 └───01.txt
+│		    └───01.txt
 │		
 │    └───output_data
 │        ├───OccupancyMap_for_10_bins
@@ -31,7 +31,7 @@ Robotics Assignments
 │		 	        ├───omap_image5.png
 │		 	        └───Final_OMap_5_bins.png
 │		 
-│		 └───pointcloud_registration.png
+│		      └───pointcloud_registration.png
 │
 └───19_mr01_Assignment-2.ipynb
 ```
